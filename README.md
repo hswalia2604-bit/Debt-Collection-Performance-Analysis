@@ -1,5 +1,6 @@
 ## 📊 Debt Collection Performance Analysis
 
+![Collections Dashboard](images/Collection_project_img.png)
 ---
 
 ### 📌 Business Problem
